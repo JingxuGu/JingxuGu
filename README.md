@@ -11,9 +11,9 @@
 
 ## # Connect with Me
 
-- 📧 Email：jingxugu5@gmail.com. 
+- 📧 Email：jingxugu@smail.nju.edu.cn 
 
 ## # Personal Site
 
-- 💻 Academic Site url: https://jingxugu.com.
+- 💻 Academic Site url: https://jingxugu.com
 - 🖥️ Algorithm Blog：https://blog.jingxugu.com
