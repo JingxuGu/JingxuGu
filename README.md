@@ -16,4 +16,4 @@
 ## # Personal Site
 
 - 💻 Academic Site url: https://jingxugu.com.
-- 🖥️ Blog：https://blog.jingxugu.com
+- 🖥️ Algorithm Blog：https://blog.jingxugu.com
