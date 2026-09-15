@@ -11,7 +11,6 @@
 - 📸 A photography enthusiast who enjoys capturing interesting moments and perspectives
 - ✈️ Love flying drones, exploring the world from above, and discovering new ways to see familiar places
 - 🌱 Still learning, staying curious, and spending most of my time exploring robotics, VLA, and everything around them
-- 🌐 More about me at [**jingxugu.com**](https://jingxugu.com)
 
 ## # Connect with Me
 
